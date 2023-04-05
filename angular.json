@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "magicApp"
+  "defaultProject": "magicApp",
+  "cli": {
+    "analytics": "edf2a4a2-ad3a-4ffb-bfd9-6fc90fb91b75"
+  }
 }
